@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seungzin35.github.io/homepage/sitemap-index.xml
